@@ -134,7 +134,7 @@ p{
 
 /* tablet */
 
-@media screen and (min-width: 1024px){
+@media screen and (max-width: 1024px){
     div{
     width: 50%;
    }
@@ -147,7 +147,7 @@ p{
    }
 }
 
-@media screen and (min-width: 640px){
+@media screen and (max-width: 640px){
     div{
     width: 80%;
    }
@@ -167,7 +167,7 @@ p{
    }
 }
 
-@media screen and (min-width: 400px){
+@media screen and (max-width: 400px){
     main{
         width: 100vw;
     }
